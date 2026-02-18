@@ -2,9 +2,6 @@
 node_modules/
 frontend/node_modules/
 
-# Datasets (too large for GitHub)
-data sets/
-
 # Python
 __pycache__/
 *.pyc
