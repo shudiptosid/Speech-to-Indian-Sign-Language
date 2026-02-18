@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Datasets (too large for GitHub)
+data sets/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# Trained model
+backend/*.keras
+backend/*.h5
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NLTK data
+nltk_data/
